@@ -25,10 +25,10 @@ Welcome to Nova -- Shoot!
       :alt: alternate text
       :align: center
 
-.. figure:: https://static.scientificamerican.com/blogs/cache/file/15E43A6F-3941-471A-BF4A81AECDC8C8AA_source.jpg
+.. figure:: https://storm-asia.com/site/wp-content/uploads/2018/09/rocket-1.jpg
    :width: 400px
    :align: center
    :alt: alternate text
    :figclass: align-center
    
-   Image obtained from Scientific American website. 
+   It is not rocket science - it is harder! Image obtained from storm-asia.com
