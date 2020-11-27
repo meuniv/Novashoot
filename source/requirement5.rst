@@ -1,41 +1,31 @@
-Requirement #5: Farming@Life
-++++++++++++++++++++++++++++
+Requirement #5: Building a machine
+++++++++++++++++++++++++++++++++++
 
-:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Discuss with your counselor how farming affects your everyday life.
+:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Choose A or B or C and complete ALL the requirements.
 
-.. admonition:: Additional Challenge
+A. Design and build a catapult that will launch a marshmallow a distance of 4 feet. Then do the following:
 
-   (1) **Why are honey bees so important to plants worldwide?**
+   (1) Keep track of your experimental data for every attempt. Include the angle of launch and the distance projected.
+   (2) Make sure you apply the same force each time, perhaps by using a weight to launch the marshmallow. Discuss your design, data, and experiments—both successes and failures—with your counselor.
        
-       (a) They help plants and flowers grow;
-       (b) They keep other insects away from plants;
-       (c) They rub off nutrients from one plant onto another;
-       (d) They pollinate flowers and plants and help them reproduce.
-   (2) **What are the "female" parts of a plant or flower called?**
+B. Design a pitching machine that will lob a softball into the strike zone. Answer the following questions, and discuss your design, data, and experiments—both successes and failures—with your counselor.
 
-       (a) Pistil;
-       (b) Ovary;
-       (c) Stamen;
-       (d) Stigma
-   (3) **How can you tell how old a tree is?**
+   (1) At what angle and velocity will your machine need to eject the softball in order for the ball to travel through the strike zone from the pitcher’s mound?
+   (2) How much force will you need to apply in order to power the ball to the plate?
+   (3) If you were to use a power supply for your machine, what power source would you choose and why?
 
-       (a) By counting the number of rings in its trunk;
-       (b) By counting its leaves;
-       (c) By measuring its height;
-       (d) By counting its branches
+C. Design and build a marble run or roller coaster that includes an empty space where the marble has to jump from one part of the chute to the other. Do the following, then discuss your design, data, and experiments—both successes and failures—with your counselor.
 
-   Note: These questions are inspired by a trivia found on `how stuff works <https://play.howstuffworks.com/quiz/the-plant-quiz>`_. 
+   (1) Keep track of your experimental data for every attempt. Include the vertical angle between the two parts of the chute and the horizontal distance between the two parts of the chute.
+   (2) Experiment with different starting heights for th emarble. How do the starting heights affect the velocity of the marble? How does a higher starting height affect the jump distance?
 
-
-.. figure:: https://bento.cdn.pbs.org/hostedbento-prod/filer_public/TimeTeamAmerica/Blog%20Pics/dendro/dendro_1.jpg
-   :width: 700px
-   :align: center
-   :alt: alternate text
-   :figclass: align-center
-
-   Dendochronology: the science of tree-ring dating. Image taken from `pbs.org <http://www.pbs.org/time-team/experience-archaeology/dendrochronology/>`_. Visit the site for more information. 
-   
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
 
 
-   
+.. figure:: https://cdn.britannica.com/34/83934-050-4787BA22/Roman-torsion-arm-stone-bundle-cords-force.jpg
+   :width: 600px
+   :align: center
+   :alt: alternate text
+   :figclass: align-center
+	      
+   Image of a catapult obtained from `Encyclopedia Britannica <https://www.britannica.com/technology/catapult-military-weaponry>`_.
