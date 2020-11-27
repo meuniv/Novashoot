@@ -17,7 +17,7 @@ B. Discover the latitude and longitude coordinates of your current position. The
 
 .. Admonition:: Additional Challenge
 
-   coucou
+   Go to this `page <https://www.funtrivia.com/playquiz/quiz20845717de740.html>`_ where a trivia is proposed with 10 somewhat challenging questions related to satellites. How many questions can you get right? If you are curious check out some of the other *fun trivias* this site offers for free!
    
 .. figure:: https://media.cntraveler.com/photos/53da9b2f6dec627b149f61b5/master/w_1024,h_768,c_limit/kitts-peak-observatory.jpg
    :width: 600px
