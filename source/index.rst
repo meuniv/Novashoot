@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Nova -- Shoot!
-=========================
+Welcome to Nova -- Let it grow
+==============================
 
 .. toctree::
    :maxdepth: 2
@@ -16,7 +16,6 @@ Welcome to Nova -- Shoot!
    requirement3
    requirement4
    requirement5
-   requirement6   
    contact
    
 ..
@@ -25,10 +24,10 @@ Welcome to Nova -- Shoot!
       :alt: alternate text
       :align: center
 
-.. figure:: https://storm-asia.com/site/wp-content/uploads/2018/09/rocket-1.jpg
+.. figure:: https://prod-discovery.edx-cdn.org/media/course/image/6e203b84-6858-4a91-8df9-0e28e6fd1d9a-ffc40c851fd0.small.jpeg
    :width: 600px
    :align: center
    :alt: alternate text
    :figclass: align-center
    
-   It is not rocket science - it is harder! Image obtained from storm-asia.com
+   Agriculture is no exception to digital revolution, going beyond a simple adoption of Information and Communication Technologies. Image obtained from edx.com

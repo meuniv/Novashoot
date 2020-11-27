@@ -1,9 +1,9 @@
 .. _introduction:
 
-Welcome to *Shoot*
-++++++++++++++++++
+Welcome to *Let it grow*
+++++++++++++++++++++++++
 
-This Nova award is designed to help you explore how projectiles and space affect your life each day.
+This module is designed to help you explore where your food comes from and how agriculture affects your life each day. Agriculture includes growing crops and raising animals to provide food and other products.
 
 .. warning:: When completing this Award both the youth and involved adult leaders must obey all rules of `Safe Scouting <https://www.scouting.org/health-and-safety/gss/>`_. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
 
@@ -20,7 +20,7 @@ Documenting your progress
 
 1. A template worksheet can be found `here <https://docs.google.com/document/d/1tOlJcGxA8rKp7cc1t8yDhrckO1bbwJQjPA0HgETOAyI/edit?usp=sharing>`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
 2. Once you have opened the file on google doc, go to :code:`File` :math:`\rightarrow` :code:`Make a Copy`.
-3. Save the file with the following name: *Nova_shoot_FIRSTNAME_LASTNAME*
+3. Save the file with the following name: *Nova_lig_FIRSTNAME_LASTNAME*
 4. You will use that file to enter your progress and share with your counselor.
 5. You can share your own copy of the worksheet with your counselor using the following procedure.
 	a) Click on the SHARE button on the top-right. 
@@ -51,6 +51,11 @@ Other Nova modules in this series
       :scale: 80 %                             
       :target: https://novashoot.readthedocs.io	    
 
+   .. image:: _images/logo-lig_black.png           
+      :scale: 80 %                             
+      :target: https://novashoot.readthedocs.io	    
+
+..
 ..
    .. image:: _images/logo4.png
       :scale: 50 %

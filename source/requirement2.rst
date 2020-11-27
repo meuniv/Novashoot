@@ -2,20 +2,21 @@ Requirement #2: Merit Badge
 +++++++++++++++++++++++++++
 
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Complete ONE merit badge from the following list. Choose one that you have not already used toward another Nova award.
-After completion, discuss with your counselor how the merit badge you earned uses science and projectiles.
+After completion, discuss with your counselor how the merit badge you earned uses agriculture.
 
-* Archery
-* Astronomy
-* Athletics
-* Aviation
-* Game Design
-* Rifle Shooting
-* Robotics
-* Shotgun Shooting
-* Space Exploration
-* Sustainability
-* Weather
 
+* Animal Science
+* Fishing
+* Mammal Study
+* Cooking
+* Forestry
+* Nature
+* Farm Mechanics
+* Gardening
+* Plant Science
+* Fish and Wildlife Management
+* Insect Study
+* Soil and Water Conservation
 
 
 .. figure:: _images/meritbadges.png 
