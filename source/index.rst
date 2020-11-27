@@ -26,7 +26,7 @@ Welcome to Nova -- Shoot!
       :align: center
 
 .. figure:: https://storm-asia.com/site/wp-content/uploads/2018/09/rocket-1.jpg
-   :width: 400px
+   :width: 600px
    :align: center
    :alt: alternate text
    :figclass: align-center
