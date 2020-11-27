@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Nova - Let it grow'
+project = 'Nova - Shoot!'
 copyright = '2020, Vincent Meunier'
 author = 'Vincent Meunier'
 
@@ -55,7 +55,7 @@ html_static_path = ['_static']
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 
-html_logo =  '_images/logo-lig.png'
+html_logo =  '_images/logo-shoot.png'
 logo_only = True
 display_version = True
 numfig = False
