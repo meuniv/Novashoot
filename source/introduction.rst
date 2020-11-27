@@ -61,7 +61,7 @@ Other Nova modules in this series
       :scale: 50 %
       :alt: alternate text
       :align: center
-
+      
 
 
 
