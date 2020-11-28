@@ -55,7 +55,13 @@ Other Nova modules in this series
    .. image:: _images/logo-lig_black.png           
       :scale: 80 %                             
       :target: https://novalig.readthedocs.io	    
- 
+ 	       
+
+   .. image:: _images/logo-splash_black.png           
+      :scale: 80 %                             
+      :target: https://novasplash.readthedocs.io	    	       
+
+	       
 
 ..
    .. image:: _images/logo4.png
