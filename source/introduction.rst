@@ -5,7 +5,7 @@ Welcome to *Shoot*
 
 This Nova award is designed to help you explore how projectiles and space affect your life each day.
 
-.. warning:: When completing this Award both the youth and involved adult leaders must obey all rules of `Safe Scouting <https://www.scouting.org/health-and-safety/gss/>`_. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
+.. warning:: When completing this Award both the youth and involved adult leaders must obey all rules of `Safe Scouting <https://www.scouting.org/health-and-safety/gss/>`_. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send an email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
 
 Instructions
 ------------
@@ -35,7 +35,7 @@ Documenting your progress
 If you have any question
 ------------------------
 
-Contact your counselor or your scoutmaster! If you have questions about the program, contact Dr. Meunier  by `email <mailto:vinmeunier@gmail.com>`_.
+Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier  by `email <mailto:vinmeunier@gmail.com>`_(always make sure to copy another adult on all your communications!).
 
 Other Nova modules in this series
 ---------------------------------
