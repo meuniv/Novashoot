@@ -25,7 +25,7 @@ Documenting your progress
 5. You can share your own copy of the worksheet with your counselor using the following procedure.
 	a) Click on the SHARE button on the top-right. 
 	b) Click on "get link".
-	c) Send the link to your advisor.
+	c) Send the link to your counselor.
 
 ..
    For your convenience, these instructions are also available as a short Youtube video below. 
