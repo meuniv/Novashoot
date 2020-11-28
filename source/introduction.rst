@@ -35,7 +35,7 @@ Documenting your progress
 If you have any question
 ------------------------
 
-Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier by `email <mailto:vinmeunier@gmail.com>`_(always make sure to copy another adult on all your communications!).
+Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier by `email <mailto:vinmeunier@gmail.com>`_ (always make sure to copy another adult on all your communications!).
 
 Other Nova modules in this series
 ---------------------------------
