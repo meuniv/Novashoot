@@ -17,6 +17,7 @@ Welcome to Nova -- Shoot!
    requirement4
    requirement5
    requirement6   
+   Others
    contact
    
 ..

@@ -28,10 +28,10 @@ Requirement #1: Research and Reading
 
 .. Admonition:: Additional Challenge
 
-   The University of Montana has an fun crossword puzzle related to Space Exploration. Do you think you can solve it?
+   The University of Montana has a fun crossword puzzle related to Space Exploration. Do you think you can solve it?
 
    You can find it here as a free `PDF file <http://solar.physics.montana.edu/spot/teacher_area/AA/K-4/space%20crossword%20puzzle.pdf>`_.
 
-   Do not look beyond page 2 until you are ready to see the solution!
+   Do not look beyond page 2 until you are ready to see the solution! And... of course follow the safety instructions learned during Cyber Chip training when downloading files from the internet!
    
 .. attention:: Once you have completed this requirement, make sure you document it in your worksheet!
