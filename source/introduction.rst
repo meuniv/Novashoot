@@ -18,7 +18,7 @@ Instructions
 Documenting your progress
 -------------------------
 
-0. You can use the template below to report completion. To work on this Nova Award, you can also use a detailed worksheet provided by the BSA. Click `here <http://usscouts.org/advance/nova/workbooks/old/Scout-Nova-1-15.pdf>`__ to have access. The file below is used to record approval. 
+0. You can use the template below to report completion. To work on this Nova Award, you can also use a detailed worksheet provided by the BSA. Click `here <http://usscouts.org/advance/nova/workbooks/Scout-Nova-1.pdf>`__ to have access. The file below is used to record approval. 
 1. A template worksheet can be found `here <https://docs.google.com/document/d/1tOlJcGxA8rKp7cc1t8yDhrckO1bbwJQjPA0HgETOAyI/edit?usp=sharing>`_. This is a *Google document*. **You will not be able to modify it until you make your own copy as I will now describe for you.**
 2. Once you have opened the file on google doc, go to :code:`File` :math:`\rightarrow` :code:`Make a Copy`.
 3. Save the file with the following name: *Nova_shoot_FIRSTNAME_LASTNAME*
